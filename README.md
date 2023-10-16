@@ -26,6 +26,7 @@ Ask has a memory for two numbers and one string. A number input always alternate
 | !+-+ | Returns N1 - N2 |
 | !+-- | Returns N1 * N2 |
 | !+-++ | Returns N1 / N2 |
+| !- | Returns the string |
 
 To output the ```!``` values, type ```p``` after the command.
 
