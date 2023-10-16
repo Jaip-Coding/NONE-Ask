@@ -7,13 +7,13 @@ The name "?" Or "Ask" refers to the command "?" ("Ask"), with which the user's i
 ## Syntax
 The syntax is the same as in NONE, only that there are some additional commands.
 
-'''?''' asks for an input, '''!''' outputs a input value.
+```?``` asks for an input, ```!``` outputs a input value.
 
 ### Memory system
 Ask has a memory for two numbers and one string. A number input always alternately overwrites the memory for the two numbers. So if Number 1 (N1) was last overwritten, Number 2 (N2) will now be overwritten.
 
 ### Commands
-'''+''' after '''?''' or '''!''' stands for a number, '''-''' stands for a string. '''!++''' calls a numerical value, '''!+-''' a calculation.
+```+``` after ```?``` or ```!``` stands for a number, ```-``` stands for a string. ```!++``` calls a numerical value, ```!+-``` a calculation.
 
 | ? | Description |
 | ------------- | ------------- |
@@ -27,6 +27,6 @@ Ask has a memory for two numbers and one string. A number input always alternate
 | !+-- | Returns N1 * N2 |
 | !+-++ | Returns N1 / N2 |
 
-To output the '''!''' values, type '''p''' after the command.
+To output the ```!``` values, type ```p``` after the command.
 
-Example: '''!+--p'''
+Example: ```!+--p```
