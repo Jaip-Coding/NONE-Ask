@@ -2,7 +2,7 @@
 ? (Ask, None-Ask) is a NONE dialect that allows the user to input numbers and strings and calculate basic expressions
 
 ## Name
-The name "?" Or "Ask" refers to the command "?" ("Ask"), with which the user's input can be accessed in "Ask".
+The name "?" or "Ask" refers to the command "?" ("Ask"), with which the user's input can be accessed in "Ask".
 
 ## Syntax
 The syntax is the same as in NONE, only that there are some additional commands.
